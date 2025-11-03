@@ -20,6 +20,3 @@
 ## 🏦 Token Mint & Metadata
 
 ### Token Creation
-- **Command**:
-  ```bash
-  spl-token create-token --program-id TokenzQdBNbLqP5VEhdkAS6EPFLC1PHnBqCXEpPxuEb --enable-metadata EMwpmX6L1CCwuC41vWUznBieEBMeP21FThgm5Kh9BDgD.json
